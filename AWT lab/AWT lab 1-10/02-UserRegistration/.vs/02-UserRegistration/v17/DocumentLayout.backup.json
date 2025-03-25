@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\02-UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0227CB4-9C05-4648-A44D-7C03AA938219}|02-UserRegistration\\02-UserRegistration.csproj|c:\\users\\prose\\source\\repos\\02-userregistration\\02-userregistration\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0227CB4-9C05-4648-A44D-7C03AA938219}|02-UserRegistration\\02-UserRegistration.csproj|solutionrelative:02-userregistration\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0227CB4-9C05-4648-A44D-7C03AA938219}|02-UserRegistration\\02-UserRegistration.csproj|c:\\users\\prose\\source\\repos\\02-userregistration\\02-userregistration\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A0227CB4-9C05-4648-A44D-7C03AA938219}|02-UserRegistration\\02-UserRegistration.csproj|solutionrelative:02-userregistration\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\02-UserRegistration\\02-UserRegistration\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "02-UserRegistration\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\02-UserRegistration\\02-UserRegistration\\Default.aspx.cs",
+              "RelativeToolTip": "02-UserRegistration\\Default.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:03:48.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\02-UserRegistration\\02-UserRegistration\\Default.aspx",
+              "RelativeDocumentMoniker": "02-UserRegistration\\Default.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\02-UserRegistration\\02-UserRegistration\\Default.aspx",
+              "RelativeToolTip": "02-UserRegistration\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T09:03:36.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

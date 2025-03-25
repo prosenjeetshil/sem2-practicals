@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|c:\\users\\prose\\source\\repos\\09-navigationmenu\\09-navigationmenu\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|solutionrelative:09-navigationmenu\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|c:\\users\\prose\\source\\repos\\09-navigationmenu\\09-navigationmenu\\menuexample.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|solutionrelative:09-navigationmenu\\menuexample.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|c:\\users\\prose\\source\\repos\\09-navigationmenu\\09-navigationmenu\\menuexample.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|solutionrelative:09-navigationmenu\\menuexample.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|c:\\users\\prose\\source\\repos\\09-navigationmenu\\09-navigationmenu\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|solutionrelative:09-navigationmenu\\web.sitemap||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|c:\\users\\prose\\source\\repos\\09-navigationmenu\\09-navigationmenu\\treeviewsimple.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{77CB5C71-F06E-4943-A668-05387C957E77}|09-NavigationMenu\\09-NavigationMenu.csproj|solutionrelative:09-navigationmenu\\treeviewsimple.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuExample.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\MenuExample.aspx.cs",
+              "RelativeDocumentMoniker": "09-NavigationMenu\\MenuExample.aspx.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\MenuExample.aspx.cs",
+              "RelativeToolTip": "09-NavigationMenu\\MenuExample.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:29:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuExample.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\MenuExample.aspx",
+              "RelativeDocumentMoniker": "09-NavigationMenu\\MenuExample.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\MenuExample.aspx",
+              "RelativeToolTip": "09-NavigationMenu\\MenuExample.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T11:29:12.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.sitemap",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\Web.sitemap",
+              "RelativeDocumentMoniker": "09-NavigationMenu\\Web.sitemap",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\Web.sitemap",
+              "RelativeToolTip": "09-NavigationMenu\\Web.sitemap",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002838|",
+              "WhenOpened": "2025-03-23T11:27:59.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TreeViewSimple.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\TreeViewSimple.aspx",
+              "RelativeDocumentMoniker": "09-NavigationMenu\\TreeViewSimple.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\TreeViewSimple.aspx",
+              "RelativeToolTip": "09-NavigationMenu\\TreeViewSimple.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T11:26:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\Default.aspx",
+              "RelativeDocumentMoniker": "09-NavigationMenu\\Default.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\09-NavigationMenu\\09-NavigationMenu\\Default.aspx",
+              "RelativeToolTip": "09-NavigationMenu\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T11:26:07.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

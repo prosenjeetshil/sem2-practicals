@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\03-Postback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|c:\\users\\prose\\source\\repos\\03-postback\\03-postback\\postback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|solutionrelative:03-postback\\postback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|c:\\users\\prose\\source\\repos\\03-postback\\03-postback\\postback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|solutionrelative:03-postback\\postback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|c:\\users\\prose\\source\\repos\\03-postback\\03-postback\\display.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|solutionrelative:03-postback\\display.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|c:\\users\\prose\\source\\repos\\03-postback\\03-postback\\display.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|solutionrelative:03-postback\\display.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|c:\\users\\prose\\source\\repos\\03-postback\\03-postback\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|solutionrelative:03-postback\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|c:\\users\\prose\\source\\repos\\03-postback\\03-postback\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{552841F3-0C22-4C23-A756-73ED7B3D0B96}|03-Postback\\03-Postback.csproj|solutionrelative:03-postback\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostBack.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\PostBack.aspx.cs",
+              "RelativeDocumentMoniker": "03-Postback\\PostBack.aspx.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\PostBack.aspx.cs",
+              "RelativeToolTip": "03-Postback\\PostBack.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:22:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostBack.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\PostBack.aspx",
+              "RelativeDocumentMoniker": "03-Postback\\PostBack.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\PostBack.aspx",
+              "RelativeToolTip": "03-Postback\\PostBack.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T09:21:58.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Display.aspx.cs",
+              "RelativeDocumentMoniker": "03-Postback\\Display.aspx.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Display.aspx.cs",
+              "RelativeToolTip": "03-Postback\\Display.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:14:11.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Display.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Display.aspx",
+              "RelativeDocumentMoniker": "03-Postback\\Display.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Display.aspx",
+              "RelativeToolTip": "03-Postback\\Display.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T09:13:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "03-Postback\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Default.aspx.cs",
+              "RelativeToolTip": "03-Postback\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:12:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Default.aspx",
+              "RelativeDocumentMoniker": "03-Postback\\Default.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\03-Postback\\03-Postback\\Default.aspx",
+              "RelativeToolTip": "03-Postback\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T09:12:39.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

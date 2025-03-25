@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+	<Ad>
+		<ImageUrl>Images/tacobell.png</ImageUrl>
+		<NavigateUrl>https://www.tacobell.co.in/</NavigateUrl>
+		<AlternateText>Taco Bell</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>Taco</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>Images/kingfisher.png.png</ImageUrl>
+		<NavigateUrl>https://www.kingfisherbeer.co.uk/</NavigateUrl>
+		<AlternateText>Kingfisher</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>Soda</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>Images/gfb.jpg</ImageUrl>
+		<NavigateUrl>https://goodflippin.com/</NavigateUrl>
+		<AlternateText>good flippin burgers</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>GFB</Keyword>
+	</Ad>
+</Advertisements>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+	<siteMapNode url="" title="Home" description="">
+		<siteMapNode url="Default.aspx" title="Home" description="Home Page" />
+		<siteMapNode url="javascript:;" title="Services" description="Services Page">
+			<siteMapNode url="TreeViewHover.aspx" title="Consulting" description="TreeViewHover"></siteMapNode>
+			<siteMapNode url="TreeViewSimple.aspx" title="Outsourcing" description="TreeViewSimple"></siteMapNode>
+		</siteMapNode>
+		<siteMapNode url="MenuExample.aspx" title="About" description="MenuExample" />
+		<siteMapNode url="Contact.aspx" title="Contact" description="Contact Us Page" />
+	</siteMapNode>
+</siteMap>
