@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|c:\\users\\prose\\source\\repos\\11-masterpage\\11-masterpage\\blog1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|solutionrelative:11-masterpage\\blog1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|c:\\users\\prose\\source\\repos\\11-masterpage\\11-masterpage\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|solutionrelative:11-masterpage\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|c:\\users\\prose\\source\\repos\\11-masterpage\\11-masterpage\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|solutionrelative:11-masterpage\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|c:\\users\\prose\\source\\repos\\11-masterpage\\11-masterpage\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|solutionrelative:11-masterpage\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|c:\\users\\prose\\source\\repos\\11-masterpage\\11-masterpage\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F05B7D5B-D306-4710-B595-E5B030134D31}|11-MasterPage\\11-MasterPage.csproj|solutionrelative:11-masterpage\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Site1.Master",
+              "RelativeDocumentMoniker": "11-MasterPage\\Site1.Master",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Site1.Master",
+              "RelativeToolTip": "11-MasterPage\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-27T17:42:31.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog1.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Blog1.aspx",
+              "RelativeDocumentMoniker": "11-MasterPage\\Blog1.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Blog1.aspx",
+              "RelativeToolTip": "11-MasterPage\\Blog1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-27T17:36:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Contact.aspx",
+              "RelativeDocumentMoniker": "11-MasterPage\\Contact.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Contact.aspx",
+              "RelativeToolTip": "11-MasterPage\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-27T17:35:53.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\About.aspx",
+              "RelativeDocumentMoniker": "11-MasterPage\\About.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\About.aspx",
+              "RelativeToolTip": "11-MasterPage\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-27T17:34:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Default.aspx",
+              "RelativeDocumentMoniker": "11-MasterPage\\Default.aspx",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\11-MasterPage\\11-MasterPage\\Default.aspx",
+              "RelativeToolTip": "11-MasterPage\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-27T17:32:15.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

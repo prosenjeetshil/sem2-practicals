@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="_11_MasterPage.Site1" %>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f8f9fa; }
+        .navbar { background: #007bff; padding: 15px; text-align: center; }
+        .navbar a { color: white; text-decoration: none; padding: 10px 15px; font-size: 18px; }
+        .navbar a:hover { background: #0056b3; border-radius: 5px; }
+        .container { width: 80%; margin: auto; padding: 20px; }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="navbar">
+            <a href="Default.aspx">Home</a>
+            <a href="About.aspx">About</a>
+            <a href="Contact.aspx">Contact</a>
+        </div>
+
+        <div class="container">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
