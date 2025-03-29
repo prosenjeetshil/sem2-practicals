@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|c:\\users\\prose\\source\\repos\\22-sessionloginmvc\\22-sessionloginmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|solutionrelative:22-sessionloginmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|c:\\users\\prose\\source\\repos\\22-sessionloginmvc\\22-sessionloginmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|solutionrelative:22-sessionloginmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|c:\\users\\prose\\source\\repos\\22-sessionloginmvc\\22-sessionloginmvc\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|solutionrelative:22-sessionloginmvc\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|c:\\users\\prose\\source\\repos\\22-sessionloginmvc\\22-sessionloginmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|solutionrelative:22-sessionloginmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|c:\\users\\prose\\source\\repos\\22-sessionloginmvc\\22-sessionloginmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|solutionrelative:22-sessionloginmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|c:\\users\\prose\\source\\repos\\22-sessionloginmvc\\22-sessionloginmvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{247B4D67-6480-434D-8013-A5A5EBCB279D}|22-SessionLoginMVC\\22-SessionLoginMVC.csproj|solutionrelative:22-sessionloginmvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Web.config",
+              "RelativeDocumentMoniker": "22-SessionLoginMVC\\Web.config",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Web.config",
+              "RelativeToolTip": "22-SessionLoginMVC\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-29T05:17:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Views\\Web.config",
+              "RelativeDocumentMoniker": "22-SessionLoginMVC\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Views\\Web.config",
+              "RelativeToolTip": "22-SessionLoginMVC\\Views\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-29T05:11:47.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "22-SessionLoginMVC\\Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "22-SessionLoginMVC\\Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T05:11:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "22-SessionLoginMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "22-SessionLoginMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T05:09:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "22-SessionLoginMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "22-SessionLoginMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:07:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "22-SessionLoginMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\22-SessionLoginMVC\\22-SessionLoginMVC\\Models\\User.cs",
+              "RelativeToolTip": "22-SessionLoginMVC\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:05:55.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

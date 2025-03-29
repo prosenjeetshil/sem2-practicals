@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|c:\\users\\prose\\source\\repos\\19-entityframework\\19-entityframework\\migrations\\202503290557577_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|solutionrelative:19-entityframework\\migrations\\202503290557577_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|c:\\users\\prose\\source\\repos\\19-entityframework\\19-entityframework\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|solutionrelative:19-entityframework\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|c:\\users\\prose\\source\\repos\\19-entityframework\\19-entityframework\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|solutionrelative:19-entityframework\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|c:\\users\\prose\\source\\repos\\19-entityframework\\19-entityframework\\migrations\\202503290553119_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|solutionrelative:19-entityframework\\migrations\\202503290553119_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|c:\\users\\prose\\source\\repos\\19-entityframework\\19-entityframework\\models\\recordcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|solutionrelative:19-entityframework\\models\\recordcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|c:\\users\\prose\\source\\repos\\19-entityframework\\19-entityframework\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203275EB-11EE-4CBD-B920-335FDB1FBC8A}|19-EntityFramework\\19-EntityFramework.csproj|solutionrelative:19-entityframework\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202503290557577_Initial1.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Migrations\\202503290557577_Initial1.cs",
+              "RelativeDocumentMoniker": "19-EntityFramework\\Migrations\\202503290557577_Initial1.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Migrations\\202503290557577_Initial1.cs",
+              "RelativeToolTip": "19-EntityFramework\\Migrations\\202503290557577_Initial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:58:03.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "19-EntityFramework\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "19-EntityFramework\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:55:15.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202503290553119_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Migrations\\202503290553119_Initial.cs",
+              "RelativeDocumentMoniker": "19-EntityFramework\\Migrations\\202503290553119_Initial.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Migrations\\202503290553119_Initial.cs",
+              "RelativeToolTip": "19-EntityFramework\\Migrations\\202503290553119_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:53:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "19-EntityFramework\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "19-EntityFramework\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:51:08.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordContext.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Models\\RecordContext.cs",
+              "RelativeDocumentMoniker": "19-EntityFramework\\Models\\RecordContext.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Models\\RecordContext.cs",
+              "RelativeToolTip": "19-EntityFramework\\Models\\RecordContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:46:41.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "19-EntityFramework\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\19-EntityFramework\\19-EntityFramework\\Models\\Student.cs",
+              "RelativeToolTip": "19-EntityFramework\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:45:10.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
