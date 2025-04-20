@@ -1,0 +1,7 @@
+C:\Users\prose\source\repos\SimpleInterestWCFService\SimpleInterestWCFService\bin\SimpleInterestWCFService.dll.config
+C:\Users\prose\source\repos\SimpleInterestWCFService\SimpleInterestWCFService\bin\SimpleInterestWCFService.dll
+C:\Users\prose\source\repos\SimpleInterestWCFService\SimpleInterestWCFService\bin\SimpleInterestWCFService.pdb
+C:\Users\prose\source\repos\SimpleInterestWCFService\SimpleInterestWCFService\obj\Debug\SimpleInterestWCFService.csproj.AssemblyReference.cache
+C:\Users\prose\source\repos\SimpleInterestWCFService\SimpleInterestWCFService\obj\Debug\SimpleInterestWCFService.csproj.CoreCompileInputs.cache
+C:\Users\prose\source\repos\SimpleInterestWCFService\SimpleInterestWCFService\obj\Debug\SimpleInterestWCFService.dll
+C:\Users\prose\source\repos\SimpleInterestWCFService\SimpleInterestWCFService\obj\Debug\SimpleInterestWCFService.pdb

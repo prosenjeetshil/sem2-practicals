@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|c:\\users\\prose\\source\\repos\\32_empcrud\\32_empcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|solutionrelative:32_empcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|c:\\users\\prose\\source\\repos\\32_empcrud\\32_empcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|solutionrelative:32_empcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|c:\\users\\prose\\source\\repos\\32_empcrud\\32_empcrud\\32_empcrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|solutionrelative:32_empcrud\\32_empcrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|c:\\users\\prose\\source\\repos\\32_empcrud\\32_empcrud\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|solutionrelative:32_empcrud\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|c:\\users\\prose\\source\\repos\\32_empcrud\\32_empcrud\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|solutionrelative:32_empcrud\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|c:\\users\\prose\\source\\repos\\32_empcrud\\32_empcrud\\controller\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|solutionrelative:32_empcrud\\controller\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|c:\\users\\prose\\source\\repos\\32_empcrud\\32_empcrud\\migrations\\20250416163105_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7607E941-21E8-4139-A0DF-E1A3FF277B21}|32_EmpCRUD\\32_EmpCRUD.csproj|solutionrelative:32_empcrud\\migrations\\20250416163105_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "32_EmpCRUD.http",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\32_EmpCRUD.http",
+              "RelativeDocumentMoniker": "32_EmpCRUD\\32_EmpCRUD.http",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\32_EmpCRUD.http",
+              "RelativeToolTip": "32_EmpCRUD\\32_EmpCRUD.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-16T16:47:02.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "32_EmpCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Program.cs",
+              "RelativeToolTip": "32_EmpCRUD\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:20:10.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250416163105_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Migrations\\20250416163105_InitialCreate.cs",
+              "RelativeDocumentMoniker": "32_EmpCRUD\\Migrations\\20250416163105_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Migrations\\20250416163105_InitialCreate.cs",
+              "RelativeToolTip": "32_EmpCRUD\\Migrations\\20250416163105_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:31:06.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Controller\\EmpController.cs",
+              "RelativeDocumentMoniker": "32_EmpCRUD\\Controller\\EmpController.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Controller\\EmpController.cs",
+              "RelativeToolTip": "32_EmpCRUD\\Controller\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:23:42.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "32_EmpCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\appsettings.json",
+              "RelativeToolTip": "32_EmpCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T16:22:30.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Data\\EmpContext.cs",
+              "RelativeDocumentMoniker": "32_EmpCRUD\\Data\\EmpContext.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Data\\EmpContext.cs",
+              "RelativeToolTip": "32_EmpCRUD\\Data\\EmpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:19:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "32_EmpCRUD\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\32_EmpCRUD\\32_EmpCRUD\\Models\\Emp.cs",
+              "RelativeToolTip": "32_EmpCRUD\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:17:41.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

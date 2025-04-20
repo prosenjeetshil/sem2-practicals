@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\25_GlobalAsax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131404B6-033B-4132-9B33-B920B0A8A4A0}|25_GlobalAsax\\25_GlobalAsax.csproj|c:\\users\\prose\\source\\repos\\25_globalasax\\25_globalasax\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131404B6-033B-4132-9B33-B920B0A8A4A0}|25_GlobalAsax\\25_GlobalAsax.csproj|solutionrelative:25_globalasax\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\25_GlobalAsax\\25_GlobalAsax\\Global.asax.cs",
+              "RelativeDocumentMoniker": "25_GlobalAsax\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\25_GlobalAsax\\25_GlobalAsax\\Global.asax.cs",
+              "RelativeToolTip": "25_GlobalAsax\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:28:47.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

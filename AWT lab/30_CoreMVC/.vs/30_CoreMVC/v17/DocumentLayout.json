@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|c:\\users\\prose\\source\\repos\\30_coremvc\\30_coremvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|solutionrelative:30_coremvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|c:\\users\\prose\\source\\repos\\30_coremvc\\30_coremvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|solutionrelative:30_coremvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|c:\\users\\prose\\source\\repos\\30_coremvc\\30_coremvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|solutionrelative:30_coremvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|c:\\users\\prose\\source\\repos\\30_coremvc\\30_coremvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|solutionrelative:30_coremvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|c:\\users\\prose\\source\\repos\\30_coremvc\\30_coremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08233ACA-AFD4-465F-B836-5B4D44915058}|30_CoreMVC\\30_CoreMVC.csproj|solutionrelative:30_coremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "30_CoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Program.cs",
+              "RelativeToolTip": "30_CoreMVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:26:26.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "30_CoreMVC\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "30_CoreMVC\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:24:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "30_CoreMVC\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "30_CoreMVC\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:23:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "30_CoreMVC\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "30_CoreMVC\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:14:20.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "30_CoreMVC\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\prose\\source\\repos\\30_CoreMVC\\30_CoreMVC\\Models\\Book.cs",
+              "RelativeToolTip": "30_CoreMVC\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:13:23.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿@model _30_CoreMVC.Models.Book
+@{
+    ViewData["Title"] = "Book Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h3>@Model.Title</h3>
+    <p><strong>Author:</strong> @Model.Author</p>
+    <p><strong>Genre:</strong> @Model.Genre</p>
+    <p><strong>Year:</strong> @Model.Year</p>
+    <a href="@Url.Action("Index", "Books")" class="btn btn-primary">Back to List</a>
+</div>

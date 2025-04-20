@@ -1,0 +1,12 @@
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\bin\27_UserWCFService.dll.config
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\bin\27_UserWCFService.dll
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\bin\27_UserWCFService.pdb
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\bin\EntityFramework.dll
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\bin\EntityFramework.SqlServer.dll
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\bin\EntityFramework.xml
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\bin\EntityFramework.SqlServer.xml
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\obj\Debug\27_UserWCFService.csproj.AssemblyReference.cache
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\obj\Debug\27_UserWCFService.csproj.CoreCompileInputs.cache
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\obj\Debug\27_UserW.4FCD417F.Up2Date
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\obj\Debug\27_UserWCFService.dll
+C:\Users\prose\source\repos\27_UserWCFService\27_UserWCFService\obj\Debug\27_UserWCFService.pdb
